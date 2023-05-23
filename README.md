@@ -21,6 +21,7 @@
 ##### Design 
 <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="18px" height="24px"></a>
 ----
+## I Build Multi Platform -> Website.Web App. Application. Software
 
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/c79aab56-eaf2-4eb3-bc54-b8c286796d8e)
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
