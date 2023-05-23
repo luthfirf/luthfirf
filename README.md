@@ -36,21 +36,25 @@
 ### 
 <!-- table name = markdown -->
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
+<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#other-symbol -->
 
-### My tasks
-- [ ] https://github.com/octo-org/octo-repo/issues/45
-- [x] Draft issue title
+|  Type of Software and Application  | Operating System | 
+|  --------------------------------  | ---------------- |
+| Web <br> Desktop <br> Mobile <br> Edge | Windows <br> macOS <br> Linux <br> Android <br> iOS | 
+
+|       Web      | Desktop | Mobile | Controller (specific needed for functionality)|
+|  ------------  | ------- | ------ | ---------- |
+| Website <br> Web Application | macOS <br> Windows | iOS <br> Android | Manufacturing Control <br> Edge Control |
 
 
+| Platform |     Native    |  Cross Platform  | Hybrid | PWA |
+| -------- | :-----------: | :--------------: | :----: | :-: |
+| Android <br> iOS <br> Windows <br> macOS <br> Web | :white_check_mark: <br> :white_check_mark: <br> :white_check_mark: <br> :white_check_mark: <br> :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
-|       Web      | Desktop | Mobile |
-|  ------------  | ------- | ------ |
-| Website <br> Web Application | macOS <br> Windows | iOS <br> Android |
+|  Controller Program/Software  | Operating System | Platform |
+|  ---------------------------  | ---------------- | -------- |
+|  Specific Needed  | Specific | Specific |
 
-
-|     Native    |  Cross Platform  | Hybrid | PWA |
-| ------------- | ---------------- | ------ | --- |
-| One Platform  | All Platform | All Platform | All Platform |
 
 ###
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/c79aab56-eaf2-4eb3-bc54-b8c286796d8e)
