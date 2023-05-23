@@ -14,7 +14,7 @@ Hi there! I'm Luthfi👋
 <!-- https://visualstudio.microsoft.com/ -->
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="42px" height="42px"></a>
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" alt="Visual Studio" width="45px" height="45px"></a>
-<a target="blank" href="https://netbeans.apache.org/" title="Apache Netbeans" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Apache NetBeans" width="42px" height="42px"></a>
+<a href="https://netbeans.apache.org/" title="Apache Netbeans" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Apache NetBeans" width="42px" height="42px"></a>
 
 
 
