@@ -3,6 +3,11 @@ Hi there! I'm Luthfi👋
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/37ffb183-59cd-4201-8ef4-c148aa8e63fc)
 ----
 ### Tech Stack
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+
+<!-- https://github.com/get-icon/geticon/blob/master/README.md?plain=1 -->
+<!-- https://emojipedia.org/travel-places/ -->
+<!-- https://shields.io/ -->
 
 <!--
 **luthfirf/luthfirf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
