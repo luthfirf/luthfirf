@@ -1,6 +1,6 @@
 Hi there! I'm Luthfi👋
 ### Nice to see you here!
-![image](https://github.com/luthfirf/luthfirf/assets/65375034/37ffb183-59cd-4201-8ef4-c148aa8e63fc)
+<a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://github.com/luthfirf/luthfirf/assets/65375034/37ffb183-59cd-4201-8ef4-c148aa8e63fc" alt="LinkedIn"></a>
 ----
 
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
