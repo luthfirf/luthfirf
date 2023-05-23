@@ -1,6 +1,6 @@
 ## Hi there! I'm Human 👋
 ### Nice to see you here 🌏
-<a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="Figma" width="180px" height="50px"></a> 
+<a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="180px" height="50px"></a> 
 
 I can work alone or with a team.
 |                Work Alone                  |                   Team Work                     |
