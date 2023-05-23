@@ -1,7 +1,8 @@
 ## Hi there! I'm Human 👋
 
 ### Nice to see you here 🌏
-<a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://github.com/luthfirf/luthfirf/assets/65375034/37ffb183-59cd-4201-8ef4-c148aa8e63fc" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://techstory.in/wp-content/uploads/2021/12/Linkedin-Logo.png
+" alt="LinkedIn"></a>
 
 
 I can work alone or with a team.
