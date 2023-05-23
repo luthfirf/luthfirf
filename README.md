@@ -1,6 +1,6 @@
 ## Hi there! I'm Human 👋
 ### Nice to see you here 🌏
-<a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="180px" height="50px"></a> 
+<a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRDATwi5f0WX1Mf8pv2935G0W9WlXQb67h60bVn_7wAqJp8fUS7xovY-yXOCzRriFlJeaRKL4W9QynSCpnmoIOfKlVzhYXktY9wfcwQdUvRyaGswmdf8Maur384n_ILdV0_oYraWJiZ2fiVUziiVIg8qOd1YLkxXVP6y2itzSjgxfTMHR2NSRc8eF5/w200-h54/ezgif.com-webp-to-png.png" alt="LinkedIn" width="180px" height="50px"></a> 
 
 I can work alone or with a team.
 |                Work Alone                  |                   Team Work                     |
