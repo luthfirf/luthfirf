@@ -43,7 +43,7 @@ I can work alone or with a team.
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#other-symbol -->
 
-|  Type of Software and Application  | Operating System | 
+<!-- |  Type of Software and Application  | Operating System | 
 |  --------------------------------  | ---------------- |
 | Web <br> Desktop <br> Mobile <br> Edge | Windows <br> macOS <br> Linux <br> Android <br> iOS | 
 
@@ -58,7 +58,7 @@ I can work alone or with a team.
 
 |  Controller Program/Software  | Operating System | Platform |
 |  ---------------------------  | ---------------- | -------- |
-|  Specific Needed  | Specific | Specific |
+|  Specific Needed  | Specific | Specific | -->
 
 
 ###
