@@ -1,8 +1,8 @@
-## Hi there! I'm Luthfi 👋
+## Hi there! I'm Human 👋
 
 ### Nice to see you here 🌏
 <a href="https://www.linkedin.com/in/luthfiramdhanf/" title="LinkedIn" target="_blank"><img src="https://github.com/luthfirf/luthfirf/assets/65375034/37ffb183-59cd-4201-8ef4-c148aa8e63fc" alt="LinkedIn"></a>
-----
+---
 ##### Programming Language
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
@@ -21,6 +21,14 @@
 ##### Design 
 <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="18px" height="24px"></a>
 ----
+##### Diagramming and Flowchart Design
+
+<a href="https://www.drawio.com/" title="Diagram .io" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhq3JBcM7f27PgJdniWomZiiz57MgsdfJQh-R-Stok__xIBk_qGfaMWjtUxcigHoqUHao&usqp=CAU" alt="draw .io" width="23px" height="23px"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" title="Microsoft Visio" target="_blank"><img src="https://id.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" alt="Microsoft Visio" width="23px" height="23px"></a>
+<a href="https://www.lucidchart.com/" title="Lucidchart" target="_blank"><img src="https://insiderapps.com/sites/default/files/styles/medium/public/2022-05/LucidChart%20Logo.png?itok=iKu4yV_r" alt="Lucidchart" width="23px" height="23px"></a>
+---
+
+
 ## I Build Multi Platform -> Website.Web App. Application. Software
 
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/c79aab56-eaf2-4eb3-bc54-b8c286796d8e)
