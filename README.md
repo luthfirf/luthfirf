@@ -41,9 +41,9 @@ I can work alone or with a team.
 <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" title="Microsoft Visio" target="_blank"><img src="https://id.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" alt="Microsoft Visio" width="23px" height="23px"></a>
 <a href="https://www.lucidchart.com/" title="Lucidchart" target="_blank"><img src="https://insiderapps.com/sites/default/files/styles/medium/public/2022-05/LucidChart%20Logo.png?itok=iKu4yV_r" alt="Lucidchart" width="23px" height="23px"></a>
 --- -->
-##
-### I Build Multi Platform -> Website.Web App.Application.Software
-### 
+### Website. Web App. Application. Software.
+<!-- ### I Build Multi Platform -> Website.Web App.Application.Software -->
+
 <!-- table name = markdown -->
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#other-symbol -->
