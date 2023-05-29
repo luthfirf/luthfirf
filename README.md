@@ -37,8 +37,8 @@ I can build and development
 | Platform |     Native    |  Cross Platform  | Hybrid | PWA |
 | -------- | :-----------: | :--------------: | :----: | :-: |
 | Android <br> iOS <br> Windows <br> macOS <br> Web | :white_check_mark: <br> :white_check_mark: <br> :white_check_mark: <br> :white_check_mark: <br> :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | -->
-
-![image](https://github.com/luthfirf/luthfirf/assets/65375034/7c3f0cf8-0b71-4b55-99a2-62ea1e1a6c92)
+<!-- 
+![image](https://github.com/luthfirf/luthfirf/assets/65375034/7c3f0cf8-0b71-4b55-99a2-62ea1e1a6c92) -->
 ##
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/c79aab56-eaf2-4eb3-bc54-b8c286796d8e)
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
