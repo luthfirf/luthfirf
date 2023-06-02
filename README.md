@@ -21,12 +21,13 @@ Tech stack
     <img src="https://github.com/luthfirf/luthfirf/assets/65375034/028e8368-9ff8-47b5-a0b6-94ddb54be088">
     <img src="https://github.com/luthfirf/luthfirf/assets/65375034/456df9da-930a-488d-b143-84223d818606">
 </p>
-
+<p align="center" width="100%">
 I can build and development
 
 | Web | Mobile |  Desktop  | Embedded | 
 | :-: | :----: | :-------: | :------: |
 | <img src="https://github.com/luthfirf/luthfirf/assets/65375034/e3967b0d-317d-4e5b-bdf7-34bf96926a4c" alt="Google Chrome" width="21px" height="21px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/6aa3e502-15b6-4081-a919-6278b4980fd8" alt="Microsoft Bing" width="18px" height="23px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/4428df04-2c52-4a6e-8ae4-a4cfc991a924" alt="Safari" width="24px" height="24px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/13b37907-abe8-4177-bde4-ad9b56f88da1" alt="Opera" width="23px" height="23px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/eca36387-412e-4dd1-a41b-d5d66ae6f6e0" alt="Tor Browser" width="23px" height="23px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/bdc3ac89-04f0-4611-b3e5-ef34211cd751" alt="Brave" width="20px" height="23px">  | <img src="https://github.com/luthfirf/luthfirf/assets/65375034/57b0f69f-5b37-4d8a-ae75-2f55e35f4bd4" alt="Google Play" width="21px" height="21px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/3b797863-6366-48f0-ae2f-9d4103173c61" alt="App Store" width="24px" height="24px">  | <img src="https://github.com/luthfirf/luthfirf/assets/65375034/350dfe94-49c0-4347-8449-71b2bb154f13" alt="Windows" width="21px" height="21px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/caf1770b-539b-4d2b-8a6e-2c049e8f5372" alt="Apple macOS" width="20px" height="24px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/8888852c-f57a-415f-806f-3114e617b2cf" alt="Linux" width="21px" height="23px"> <img src="https://github.com/luthfirf/luthfirf/assets/65375034/ffae6858-11d2-423d-a2f8-ea3f23987568" alt="Ubuntu" width="23px" height="23px"> | <img src="https://github.com/luthfirf/luthfirf/assets/65375034/be15ecd8-27c7-4d3a-9883-6d612b92c91e" alt="Embedded1" width="23px" height="23px"> |
+</p>
 
 <!-- table name = markdown -->
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
