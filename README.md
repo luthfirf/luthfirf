@@ -21,7 +21,7 @@ Tech stack
     <img src="https://github.com/luthfirf/luthfirf/assets/65375034/028e8368-9ff8-47b5-a0b6-94ddb54be088">
     <img src="https://github.com/luthfirf/luthfirf/assets/65375034/456df9da-930a-488d-b143-84223d818606">
 </p>
-<p align="center" width="100%">
+<p align="left" width="100%">
 I can build and development
 
 | Web | Mobile |  Desktop  | Embedded | 
