@@ -40,8 +40,8 @@ I can build and development
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/c79aab56-eaf2-4eb3-bc54-b8c286796d8e)
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/c449fff5-8071-4798-9213-765f0d23ba34)
 ![image](https://github.com/luthfirf/luthfirf/assets/65375034/6e146963-0591-4222-a2b8-462993917d34)
+![image](https://developer.android.com/static/images/hero-assets/foldables.svg)
 
-https://developer.android.com/static/images/hero-assets/foldables.svg
 
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
 <!-- https://github.com/get-icon/geticon/blob/master/README.md?plain=1 -->
